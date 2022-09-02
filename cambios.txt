@@ -1,0 +1,1 @@
+A partir de la segunda clase de sass, pude añadir y mejorar la calidad de las keywords, añadí tittles y meta descriptions.
